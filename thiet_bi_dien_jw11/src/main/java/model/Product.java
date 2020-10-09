@@ -11,7 +11,7 @@ public class Product {
 
     private double price;
 
-    private Date createTime;
+    private Date createTime; //create_time
 
     private boolean deleted;
 
